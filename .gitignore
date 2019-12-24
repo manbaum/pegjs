@@ -1,3 +1,11 @@
-browser/*
-examples/*.js
-node_modules/*
+/.idea
+/packages/pegjs/dist
+/packages/pegjs/.npmrc
+/public
+/examples/*.js
+node_modules
+/coverage
+/.nyc_output
+/*.log
+/sh.exe.stackdump
+/test/junit-results.xml
